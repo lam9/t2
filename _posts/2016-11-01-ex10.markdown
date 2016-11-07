@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Exercice 10!"
+date:   2016-11-07 14:46:38
+categories: exercices
+---
+
+
+Créez la base de données b82
+Créez la table tbl_membre selon l'image ci-dessous
+MCD
+Veillez à choisir le moteur de stockage INNODB et l'interclassement utf8_general_ci lors de la création des champs de la table
+Ajouter quelques enregistrements avec le menu INSERER de la table nouvellement créée
+Suprimer des enregistrements
+Modifier des enregistrements
+exporter la table et ses données dans un fichier de sauvegarde avec le menu OPERATION ou le menu EXPORT
+suprimer la tables tbl_membre de la bases de données
+importer la table depuis le fichier de sauvegarde avec le menu IMPORTER
+Executer une requête de selection sur la table avec le menu SQL
+Visulaiser le MLD de la base avec le menu PLUS | CONCEPTEUR
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
