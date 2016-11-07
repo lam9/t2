@@ -6,7 +6,7 @@ categories: exercices
 ---
 
 
-Créez la base de données b82
+**Créez la base de données b82**
 Créez la table tbl_membre selon l'image ci-dessous
 MCD
 Veillez à choisir le moteur de stockage INNODB et l'interclassement utf8_general_ci lors de la création des champs de la table
