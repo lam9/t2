@@ -5,6 +5,8 @@ date:   2016-11-07 14:46:38
 categories: exercices
 ---
 
+ce qui est exercé:
+Manipulation de base de données avec phpMyAdmin
 
 **Créez la base de données b82**
 Créez la table tbl_membre selon l'image ci-dessous
